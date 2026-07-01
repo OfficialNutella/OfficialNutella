@@ -21,20 +21,12 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
-🚀 Currently
-
-
-🏗️ Building & scaling Clubly — ticketing, table reservations, door scanning, SMS marketing
-⚙️ Working across Next.js, AWS (Aurora / ECS Fargate), Redis, and Stripe Connect
-📱 Shipping native iOS
-🌱 Always learning — infra, distributed systems, and everything in between
-
 
 🔗 Connect
 
 <p align="center">
   <a href="https://clubly.vip"><img src="https://img.shields.io/badge/Clubly-6E44FF?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="mailto:you@clubly.vip"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:julian@clubly.vip"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OfficialNutella&style=flat-square&color=6E44FF" alt="profile views" />
