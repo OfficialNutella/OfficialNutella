@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Julian 👋</h1>
 <p align="center">
-  Founder & CEO of <a href="https://clubly.vip">Clubly</a> · Full-stack builder · NYC
+  Founder & CEO · Full-stack builder · NYC
 </p>
 <p align="center">
-  Building the nightlife ticketing & reservation marketplace connecting organizers and attendees — from door management to Stripe payouts.
+  Building the nightlife ticketing & reservation marketplace connecting organizers and attendees from door management to Stripe payouts.
 </p>
 
 🛠️ What I work with
@@ -25,7 +25,6 @@
 🔗 Connect
 
 <p align="center">
-  <a href="https://clubly.vip"><img src="https://img.shields.io/badge/Clubly-6E44FF?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="mailto:julian@clubly.vip"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
