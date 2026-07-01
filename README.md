@@ -30,23 +30,6 @@
 🌱 Always learning — infra, distributed systems, and everything in between
 
 
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfficialNutella&show_icons=true&hide_border=true&theme=graywhite&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNutella&layout=compact&hide_border=true&theme=graywhite" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OfficialNutella&hide_border=true&theme=graywhite" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OfficialNutella&theme=flat&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialNutella&hide_border=true&theme=minimal" width="95%" />
-</p>
-
 🔗 Connect
 
 <p align="center">
@@ -54,5 +37,5 @@
   <a href="mailto:you@clubly.vip"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6E44FF" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=OfficialNutella&style=flat-square&color=6E44FF" alt="profile views" />
 </p>
