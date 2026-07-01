@@ -34,17 +34,17 @@
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=graywhite&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=graywhite" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OfficialNutella&show_icons=true&hide_border=true&theme=graywhite&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNutella&layout=compact&hide_border=true&theme=graywhite" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=graywhite" height="165" />
+  <img src="https://streak-stats.demolab.com?user=OfficialNutella&hide_border=true&theme=graywhite" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OfficialNutella&theme=flat&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&theme=minimal" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OfficialNutella&hide_border=true&theme=minimal" width="95%" />
 </p>
 
 🔗 Connect
