@@ -44,7 +44,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=OfficialNutella&theme=flat&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OfficialNutella&hide_border=true&theme=minimal" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialNutella&hide_border=true&theme=minimal" width="95%" />
 </p>
 
 🔗 Connect
