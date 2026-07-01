@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Julian 👋</h1>
 <p align="center">
-  Founder & CEO · Full-stack builder · NYC
+ Full-stack builder · NYC
 </p>
 <p align="center">
   Building the nightlife ticketing & reservation marketplace connecting organizers and attendees from door management to Stripe payouts.
